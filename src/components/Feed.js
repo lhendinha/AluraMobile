@@ -5,7 +5,8 @@ import {
   FlatList,
   SafeAreaView,
   AsyncStorage,
-  ScrollView
+  ScrollView,
+  TouchableOpacity
 } from 'react-native';
 import { goToAuth } from "../config/navigation";
 import { Navigation } from 'react-native-navigation';

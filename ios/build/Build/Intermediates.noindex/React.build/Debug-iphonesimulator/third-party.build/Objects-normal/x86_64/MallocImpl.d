@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/pedrohenrique/Desktop/AluraMobile/node_modules/react-native/third-party/folly-2016.10.31.00/folly/detail/MallocImpl.cpp \
-  /Users/pedrohenrique/Desktop/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/Malloc.h \
-  /Users/pedrohenrique/Desktop/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
-  /Users/pedrohenrique/Desktop/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
-  /Users/pedrohenrique/Desktop/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h
+  /Users/pedrohenrique/Desktop/Projetos/React\ Native/CLI/AluraMobile/node_modules/react-native/third-party/folly-2016.10.31.00/folly/detail/MallocImpl.cpp \
+  /Users/pedrohenrique/Desktop/Projetos/React\ Native/CLI/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/detail/Malloc.h \
+  /Users/pedrohenrique/Desktop/Projetos/React\ Native/CLI/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/Portability.h \
+  /Users/pedrohenrique/Desktop/Projetos/React\ Native/CLI/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/portability/Config.h \
+  /Users/pedrohenrique/Desktop/Projetos/React\ Native/CLI/AluraMobile/node_modules/react-native/React/../third-party/folly-2016.10.31.00/folly/CPortability.h
