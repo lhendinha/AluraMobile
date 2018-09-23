@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd0612a9da3a196805edb566ec8bc39d/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/26fee841d5e30d9d19059e676cd50ed2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/058fc76380a32a836c7f4810bf6ee128/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd0612a9da3a196805edb566ec8bc39d/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd0612a9da3a196805edb566ec8bc39d/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/26fee841d5e30d9d19059e676cd50ed2/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/26fee841d5e30d9d19059e676cd50ed2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd0612a9da3a196805edb566ec8bc39d/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/982555cd22d9109322ca009323620be3/res/drawable-v21/item_background.xml"
+    }
+]

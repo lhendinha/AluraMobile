@@ -1,0 +1,4 @@
+#Wed Sep 19 01:33:08 BRT 2018
+base.0=/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/transforms/dexMerger/debug/19
+path.0=classes.dex
+renamed.0=classes.dex

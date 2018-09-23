@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd0612a9da3a196805edb566ec8bc39d/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/fd0612a9da3a196805edb566ec8bc39d/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/pedrohenrique/Desktop/AluraMobile/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/debug/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    }
+]

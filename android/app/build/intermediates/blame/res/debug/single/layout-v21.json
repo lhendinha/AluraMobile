@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/058fc76380a32a836c7f4810bf6ee128/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/982555cd22d9109322ca009323620be3/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/982555cd22d9109322ca009323620be3/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/058fc76380a32a836c7f4810bf6ee128/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/058fc76380a32a836c7f4810bf6ee128/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/pedrohenrique/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/058fc76380a32a836c7f4810bf6ee128/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

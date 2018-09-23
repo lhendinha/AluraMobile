@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5e603a1a71414aee0fa4d77e5bb9e999ddd3c86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6e7b3d73fca12ebcba6452aefcbbe8db3a87ad30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/b28771136122ae5bbb2e546f8ea9b6303434b938/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2e28de2f45581dc5446985804aa140c66de5942d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/4f2188fe01d35039b3918e388f18189d7137f6a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_49272c31dc072892977d6c8ab324272b039ae75d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/07c90e2214bf8afc8eaf1714b3ff98ac752dfa96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_f1ff9179fffb42030b73e3b1f3129b1b5add7be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/e16ae212bdc85c132e2d069d243f1496070aa33d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_9a8dce53a8aa90f926048c13741d783a280fdcaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_fb4c46bedf4c6e32b2e7280062f7b4d51a25e6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/27f85c8c6e42dbebdf5353da86ff1a9e21743d02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_b4f930dadd62f871d6cf51ae2f9cfa7905301aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/4fc33f9a3be56f1658d608eb34bcadc71b2dc607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_3db9d49f061867b92881eaaa7fc0fb6a8c5028c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/bb4263595a886b83c10171ce881db4ba264cfea3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_7b72dfa223f9dbaed944ec3cd3c7ab721589c641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_eb676652bcc85ba8d14edd710c4440236f749715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_28dde0c36cf5bce73b7a5be50b2d7073b7901b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/c0404480967decfe7da60e6901d254c27011395a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_6f63e81861f67b0093c89d0dceb6c96928f42c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/47bf5c83c097d51f5f69135a6d7eb3d112b9c7a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_de52aec28465b70e3a265a50848512f77812f019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/e68db2e50e037779cd956ee57c9204b91d1a4287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_fd453dd9ae237e236c054ad8d57c6357f1e5f2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/1803ca58b781e308478beed02c5476346eb897d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_9447338859b3336360c8ec7655b981da63592b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/b1454e3101a35d4fd7739e6e15d41edd79296c60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_d983dfec3a02a834999a3fc6dc04a92c75e45efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_dcb50010681a1dabf4484b15b8a85fd5e1a49bd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/e9740b8cbe07e86cec67a756a65caf266b9741df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_20219ee36b59969aab2f4cd793ec0c6cc7dfd77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_858acc3136fef68d4594464155cda21073e1bb59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/73abb0060531a9fac8aea95e61e1b849d75f1585/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_db945b0bfa2e29eb1296e0882fe419f05cfe4d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d1626913ffecc1ac56380bdbc20e465aa1350af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_c86d94ab1b55247f8391005684f70583a4fae411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/cce01daea60fa42be170b9a24a8c026dafca6b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_5faa593007dc2f2a7c0b1b073afc1fa0a61c67af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_4925011f4be186a9cf3c08cb38e470f070ccd209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/b28771136122ae5bbb2e546f8ea9b6303434b938/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_1d42ab4333d11b97f7c32ef3cdc95fc7dc9ab3fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/eb967f3212948ffa5e2cf727f8096eb4325cd9e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_abe2fd4efa2ec29b6cb724d8df031309d01789bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/9604c543dec272d4ae91bbb1e93d6c7db9a1e3cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_cb7b2d007ea84ab7f8b7e639c53851ec3da564ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/a0e6b8465dac764665d607b141623acecd32d58f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_bdeb3b9a0a87f262fbb44d4c0d735ff0224ad342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pedrohenrique/.android/build-cache/f60908dc119c17f9a502f2fc106cf148da9fb603/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/pedrohenrique/Desktop/AluraMobile/android/app/build/intermediates/pre-dexed/debug/classes_bf2561e9b7d668d35910c8ed30e6edcc02610771.jar" />
+    </item>
+
+</items>
